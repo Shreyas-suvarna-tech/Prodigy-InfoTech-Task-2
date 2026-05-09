@@ -1,10 +1,9 @@
  Stopwatch Web Application
 
 A clean, responsive stopwatch web app built with pure **HTML**, **CSS**, and **JavaScript** — no frameworks, no dependencies.
+ Dark glassmorphic UI with color-coded controls and live lap tracking.
 
-> Dark glassmorphic UI with color-coded controls and live lap tracking.
-
- Features
+ ## Features
 
 -  **Start / Pause / Resume** — full timer control
 - **Reset** — clears timer and all lap records
@@ -16,7 +15,7 @@ A clean, responsive stopwatch web app built with pure **HTML**, **CSS**, and **J
 -  **Color-coded buttons** — Start (green), Pause (amber), Lap (yellow), Reset (red)
 
 
- Getting Started
+ ## Getting Started
 
  Option 1 — Open directly in browser
 1. Download or clone this repository
@@ -28,6 +27,7 @@ A clean, responsive stopwatch web app built with pure **HTML**, **CSS**, and **J
 2. Install the **Live Server** extension (`Ctrl + Shift + X` → search "Live Server")
 3. Right-click `stopwatch.html` → **Open with Live Server**
 4. Your browser auto-opens and refreshes on every save
+   
 
  📁 Project Structure
 
@@ -41,7 +41,7 @@ stopwatch-app/
 > All HTML, CSS, and JavaScript are contained in a single file for simplicity.
 
 
- Built With
+ ## Built With
 
 | Technology | Purpose |
 |---|---|
@@ -52,7 +52,7 @@ stopwatch-app/
 | Google Fonts | JetBrains Mono + Inter typography |
 
 
- How to Use
+ ## How to Use
 
 | Button | Action |
 
@@ -62,11 +62,11 @@ stopwatch-app/
 | **Reset** | Stops timer and clears all laps |
 
 
- Author
+ ## Author
 
 **Shreyas S**
 
- Internship
+ ## Internship
 
 Prodigy InfoTech Web Development Internship
 
